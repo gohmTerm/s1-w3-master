@@ -6,7 +6,7 @@ public class CokeCoolerMain {
         c.refill(20);
         c.drink(10);
         c.cokeCount();
-
-
+        c.cokeCount();
+        c.cokeCount();
     }
 }
